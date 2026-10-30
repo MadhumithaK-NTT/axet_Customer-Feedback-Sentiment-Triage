@@ -1,0 +1,14 @@
+{"customerId":"T01","channel":"mobile-app","message":"My new debit card arrived quickly and works perfectly.","receivedAt":"2026-10-30T01:14:30.931Z","classification":{"sentiment":"positive","category":"cards","urgency":1,"summary":"New debit card arrived quickly and works perfectly."},"fallbackUsed":false,"route":"feedback-log"}
+
+{"customerId":"T03","channel":"web","message":"The personal loan application process was straightforward and the updates were helpful.","receivedAt":"2026-10-30T01:15:43.755Z","classification":{"sentiment":"positive","category":"loans","urgency":1,"summary":"Customer found the personal loan application straightforward with helpful updates."},"fallbackUsed":false,"route":"feedback-log"}
+
+{"customerId":"T04","channel":"web","message":"Could you explain how I can view the repayment schedule for my personal loan?","receivedAt":"2026-10-30T01:17:25.413Z","classification":{"sentiment":"neutral","category":"loans","urgency":2,"summary":"Customer wants to view the repayment schedule for a personal loan."},"fallbackUsed":false,"route":"feedback-log"}
+
+{"customerId":"T05","channel":"mobile-app","message":"The mobile app is much easier to use after the latest update.","receivedAt":"2026-10-30T01:22:42.902Z","classification":{"sentiment":"positive","category":"app","urgency":1,"summary":"Customer finds the mobile app easier to use after the latest update."},"fallbackUsed":false,"route":"feedback-log"}
+
+{"customerId":"T10","channel":"web","message":"Please add more branches in my area because the nearest one is too far away.","receivedAt":"2026-10-30T01:26:37.290Z","classification":{"sentiment":"negative","category":"other","urgency":2,"summary":"Customer requests more local branches because the nearest branch is too far away."},"fallbackUsed":false,"route":"feedback-log"}
+
+{"customerId":"T11","channel":"web","message":"Your support agent was polite and solved my problem quickly. Thank you.","receivedAt":"2026-10-30T01:27:04.484Z","classification":{"sentiment":"positive","category":"other","urgency":1,"summary":"Customer praises a polite support agent for resolving the issue quickly."},"fallbackUsed":false,"route":"feedback-log"}
+
+{"customerId":"T13","channel":"mobile-app","message":"アプリでカードの利用明細が見えません。Please help me check my transactions.","receivedAt":"2026-10-30T01:30:10.541Z","classification":{"sentiment":"negative","category":"app","urgency":3,"summary":"Customer cannot view card transaction history in the app."},"fallbackUsed":false,"route":"feedback-log"}
+
